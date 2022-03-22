@@ -9,5 +9,7 @@ public class hello {
         System.out.println("测试Git");
         System.out.println("hello Git");
         System.out.println("hahahhahah");
+        System.out.println("dashazi");
+        System.out.println("push test");
     }
 }
